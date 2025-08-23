@@ -9,7 +9,7 @@
 
 - 👨‍💻 My CV: [link](link)
 
-- 💬 Ask me about **.NET, Docker,..........**
+- 💬 Ask me about **.NET, Docker, Python, C++.......**
 
 - 📫 How to reach me **nguyenbao1072004@gmail.com**
 
