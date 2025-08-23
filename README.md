@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Henry</h1>
 <h3 align="center">AI Researcher and Data Scientist from Vietnam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thaibao107&label=Profile%20views&color=0e75b6&style=flat" alt="thaibao107" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thaibao107" alt="thaibao107" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Computer Vision**
 
 - 🤝 I’m looking for help with **improving the performance of my AI project.**
 
-- 👨‍💻 MY CV [link](link)
+- 👨‍💻 My CV: [link](link)
 
 - 💬 Ask me about **.NET, Docker,..........**
 
