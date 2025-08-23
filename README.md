@@ -27,3 +27,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thaibao107&show_icons=true&locale=en" alt="thaibao107" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thaibao107&" alt="thaibao107" /></p>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/YuvrajHarsh04/YuvrajHarsh04/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
+
