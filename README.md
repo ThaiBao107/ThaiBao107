@@ -25,9 +25,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thaibao107&show_icons=true&locale=en&layout=compact" alt="thaibao107" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thaibao107&show_icons=true&locale=en" alt="thaibao107" /></p>
-
-
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
