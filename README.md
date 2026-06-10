@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henry</h1>
-<h3 align="center">AI Researcher and Data Scientist from Vietnam</h3>
+<h3 align="center">AI Researcher and Data Engineering from Vietnam</h3>
 
 
 
